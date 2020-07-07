@@ -1,2 +1,2 @@
-# Web_Design_for_Everybody_Basics_of_Web_Development_Coding_Specialization
+# Web_Design_for_Everybody_Basics_of_Web_Development_Coding
 A repository to track my specialization course from Coursera

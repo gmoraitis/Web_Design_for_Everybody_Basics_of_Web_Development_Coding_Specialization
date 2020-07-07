@@ -1,0 +1,127 @@
+header{
+    
+    background: #000000 url(/assignment_1_2/images/soccer.jpg);
+    padding: 1px;
+}
+
+
+
+body{
+    padding: 2px;
+    margin: 40px;
+}
+h1{
+    text-align: center;
+    color: rgb(88, 92, 223);
+    text-transform: uppercase;
+}
+
+h2{
+    color: rgb(33, 82, 82);
+    text-transform: uppercase;
+}
+
+section{
+    background-color: rgb(204, 201, 201);
+}
+
+a{
+    background-color: rgb(212, 243, 203);
+    color: rgb(185, 88, 88);
+    
+}
+nav a{
+    display: inline-block;
+    margin-left: 180px;
+    margin-top: auto;
+    margin-bottom: 40px;
+    border-radius:5px;
+    text-decoration: wavy;
+    padding: 10px;
+    text-align: center;
+    
+    
+    
+}
+
+img {
+    display: block;
+    border: 6px solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 200px;
+    height: auto;
+   
+}
+
+ .left{
+     display: block;
+    float: left;
+    background-color: rgb(0, 139, 139);
+    
+    
+
+} 
+
+.right{
+    display: inline;
+    margin: 30px;
+    
+}
+
+.active{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 255);
+}
+
+/* Teams */
+
+
+table{
+    
+    position: sticky;
+    padding-left: 150px;
+    border-spacing: 100%;
+    width: 60%;
+	
+}
+
+
+
+th{
+	text-align: center;
+    background: rgb(79, 226, 68);
+    padding: 1%; 
+    color:rgb(250, 243, 243); 
+    border-bottom: 4px solid #1C6EA4; 
+}
+
+tr{
+    background-color: #c6f1c8;
+    text-align: center;
+    color: rgb(102, 102, 102);
+    
+}
+td{
+    padding: 2%;
+    margin: 2%;
+    opacity: 0.7;
+}
+td:hover{
+    opacity: 0.3;
+}
+
+th:first-child{
+    text-align: left;
+}
+
+td:first-child{
+    text-align: left;
+}
+
+
+
+
+
